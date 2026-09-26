@@ -19,6 +19,16 @@ ResumeDom is a Codex skill for reviewing, rewriting, tailoring, and generating e
 
 **[Quick start](#quick-start） · [Workflow](#how-it-works) · [Capabilities](#what-it-does) · [Resume modes](#two-resume-modes) · [LaTeX](#editable-latex-output) · [Rules](#opinionated-project-rules)**
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=weeelin98%2Fresumedom&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Quick start 
 
 Ask Codex to install skill directly from GitHub:
