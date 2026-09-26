@@ -19,6 +19,16 @@ ResumeDom 是面向美国科技岗位、以事实证据为核心的 Codex 简历
 
 **[快速开始](#快速开始) · [工作流程](#工作流程) · [功能矩阵](#功能矩阵) · [简历模式](#两种简历模式) · [LaTeX](#可编辑-latex-输出) · [规则](#项目专属规则)**
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=weeelin98%2Fresumedom&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=weeelin98/resumedom&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## 快速开始
 
 让 Codex 直接从 GitHub 安装：
